@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.exe
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.deps.json
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.runtimeconfig.json
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.dll
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\ref\JeuDeMath.dll
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\bin\Debug\net5.0\JeuDeMath.pdb
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.AssemblyInfo.cs
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.dll
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\ref\JeuDeMath.dll
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.pdb
+C:\Users\alexi\source\repos\JeuDeMath\JeuDeMath\obj\Debug\net5.0\JeuDeMath.genruntimeconfig.cache
